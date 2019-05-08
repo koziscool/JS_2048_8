@@ -1,10 +1,5 @@
 
 
-controller2048 = {
-  init: function(  ) {
-    
-  },
-}
 
 
 $(document).ready( function() {
